@@ -1,0 +1,74 @@
+.icon{
+  width:20%;
+  height:auto;
+  display:block;
+  margin-left:auto;
+}
+li{
+  display:inline-block;
+  margin:0%;
+}
+.banner1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10%
+}
+ h2{
+    justify-content: center;
+  }
+.offers{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.o1{
+  width: 30%;
+}
+.o1>img{
+  width: 100%;
+
+}
+.o2{
+  width: 30%;
+
+}
+.o2>img{
+  width: 100%
+}
+
+.s1{
+  width: 20%;
+}
+.s1>img{
+  width: 100%;
+
+}
+.s2{
+  width: 20%;
+
+}
+.s2>img{
+  width: 100%
+}
+.s3{
+  width: 20%;
+
+}
+.s3>img{
+  width: 100%
+}
+.sa1{
+  width: 100%;
+
+}
+.sa1>img{
+  width: 100%
+}
+.s11{
+  width: 20%;
+
+}
+.s11>img{
+  width: 100%
+}
